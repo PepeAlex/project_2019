@@ -84,7 +84,11 @@ https://code.visualstudio.com/
   K-nearest neighbors algorithm - KNN
 In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression. In both cases, the input consists of the k closest training examples in the feature space.
 https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
-
+
+  Jupyter Notebook
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+https://jupyter.org/
+
   CSV File
 Data set “iris” 
 https://gist.github.com/curran/a08a1080b88344b0c8a7
@@ -162,3 +166,4 @@ https://paulovasconcellos.com.br/como-criar-seu-primeiro-aplicativo-de-machine-l
 https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
 https://seaborn.pydata.org/generated/seaborn.violinplot.html?highlight=violinplots%20observations
 https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+https://jupyter.org/
