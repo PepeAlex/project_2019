@@ -133,7 +133,10 @@ As we can see in the chart, the data seems to be very well distributed. This wil
 fig iris_9
 
 iris_10 – A violin plot plays a similar role as a box and whisker plot. It shows the distribution of quantitative data across several levels of one (or more) categorical variables such that those distributions can be compared.
-fig iris_10
+fig iris_10 - species vs sepal_length
+fig iris_11 - species vs sepal_wdth
+fig iris_12 - species vs petal_length
+fig iris_13 - species vs petal_width
 
  	 
 Conclusion
