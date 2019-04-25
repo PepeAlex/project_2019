@@ -132,10 +132,14 @@ iris_9 – The best way to inspect the data is to visualize it. To do this, we w
 As we can see in the chart, the data seems to be very well distributed. This will allow a greater accuracy of the model, since the information is very varied for each type of Iris. Imagine, for example, if the flowers of the Setosa species had the same measurements as the Versicolor. This would make it difficult for our model to predict new flowers inserted later.
 fig iris_9
 
-iris_10 – A violin plot plays a similar role as a box and whisker plot. It shows the distribution of quantitative data across several levels of one (or more) categorical variables such that those distributions can be compared.
+A violin plot plays a similar role as a box and whisker plot. It shows the distribution of quantitative data across several levels of one (or more) categorical variables such that those distributions can be compared.
+
 fig iris_10 - species vs sepal_length
+
 fig iris_11 - species vs sepal_wdth
+
 fig iris_12 - species vs petal_length
+
 fig iris_13 - species vs petal_width
 
  	 
